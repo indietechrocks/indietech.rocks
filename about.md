@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+At [Indie Web Summit 2017](https://2017.indieweb.org/), a group of attendees decided to create
+this site.
 
-You can find the source code for the Jekyll new theme at:
-{% include icon-github.html username="jglovier" %} /
-[jekyll-new](https://github.com/jglovier/jekyll-new)
+Indietech.rocks is provided as a service to the community. If you know of products that share the
+same [values](values), please do tell us so we can add them. Ideally, you fork repository
+[indietech.rocks](https://github.com/indietechrocks/indietech.rocks) on Github, and submit
+a pull request. If you don't know what this means, tweet to us at
+{% include icon-twitter.html username="indietechrocks" %}.
 
-You can find the source code for Jekyll at
-{% include icon-github.html username="jekyll" %} /
-[jekyll](https://github.com/jekyll/jekyll)

@@ -20,5 +20,10 @@ permalink: /products/
    imgurl="https://s.w.org/about/images/logos/wordpress-logo-notext-rgb.png" vendor="Automattic"
    description="WordPress powers 28% of the internet. WordPress.com is the easiest place to get started."
    type="Hosted service" licenseorcost="Fremium" %}
+   
+{% include product-line.html name="Quill" url="https://quill.p3k.io/"
+   imgurl="https://quill.p3k.io/images/quill-logo-144.png" vendor="Quill"
+   description="Quill is a simple app for posting text notes to your website."
+   type="Hosted service" licenseorcost="Free" %}
 
 </table>

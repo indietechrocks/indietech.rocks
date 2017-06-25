@@ -1,0 +1,25 @@
+table.products {
+    width: 100%;
+
+    tr {
+        border-width: 1px 0;
+        border-color: #b0b0b0;
+        border-style: solid;
+    }
+
+    td.icon {
+        width: 20%;
+    }
+    td.name {
+        width: 20%;
+    }
+    td.type {
+        width: 10%;
+    }
+    td.description {
+        wdith: 40%;
+    }
+    td.licenseorcost {
+        width: 10%;
+    }
+}

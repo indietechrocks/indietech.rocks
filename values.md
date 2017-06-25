@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Value
+title: Values
 permalink: /values/
 ---
 

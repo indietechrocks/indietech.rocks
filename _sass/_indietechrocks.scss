@@ -1,10 +1,11 @@
 table.products {
     width: 100%;
 
-    tr {
+    td {
         border-width: 1px 0;
         border-color: #b0b0b0;
         border-style: solid;
+        padding: 2px;
     }
 
     td.icon {
@@ -13,11 +14,14 @@ table.products {
     td.name {
         width: 20%;
     }
+    td.vendor {
+        width: 10%;
+    }
     td.type {
         width: 10%;
     }
     td.description {
-        wdith: 40%;
+        width: 30%;
     }
     td.licenseorcost {
         width: 10%;

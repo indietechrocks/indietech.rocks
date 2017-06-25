@@ -96,4 +96,14 @@ permalink: /products/
    licenseorcost="Free"
 %}
 
+{% include product-line.html
+   name="Open Sprinkler"
+   url="https://opensprinkler.com/product/opensprinkler/"
+   imgurl="https://opensprinkler.com/wp-content/uploads/2014/10/logo.svg"
+   vendor="Ray Wang and Samer Albahra"
+   description="Open-source, web-based smart sprinkler controller for lawn and plant watering, drip irrigation, farm irrigation, hydroponics etc."
+   type="Integrated hardware/software system"
+   licenseorcost="approx. $150 depending on features"
+%}
+
 </table>

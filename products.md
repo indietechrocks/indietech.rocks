@@ -6,15 +6,24 @@ permalink: /products/
 
 <table class="products" markdown="0">
 
-{% include product-line.html name="Known" url="https://withknown.com/"
-   imgurl="https://withknown.com/img/logo_k.png" vendor="Known, Inc."
+{% include product-line.html
+   name="Known"
+   url="https://withknown.com/"
+   imgurl="https://withknown.com/img/logo_k.png"
+   vendor="Known, Inc."
    description="Social publishing platform."
-   type="Server-side software" licenseorcost="Apache 2.0" %}
+   type="Server-side software"
+   licenseorcost="Apache 2.0"
+%}
 
-{% include product-line.html name="Wordpress" url="https://wordpress.org/"
-   imgurl="https://s.w.org/about/images/logos/wordpress-logo-notext-rgb.png" vendor="Wordpress project"
+{% include product-line.html
+   name="Wordpress"
+   url="https://wordpress.org/"
+   imgurl="https://s.w.org/about/images/logos/wordpress-logo-notext-rgb.png"
+   vendor="Wordpress project"
    description="WordPress is open source software you can use to create a beautiful website, blog, or app."
-   type="Server-side software" licenseorcost="Apache 2.0" %}
+   type="Server-side software"
+   licenseorcost="Apache 2.0" %}
 
 {% include product-line.html name="Wordpress" url="https://wordpress.com/"
    imgurl="https://s.w.org/about/images/logos/wordpress-logo-notext-rgb.png" vendor="Automattic"

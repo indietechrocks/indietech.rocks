@@ -1,3 +1,7 @@
+table {
+    border-collapse: collapse;
+}
+
 table.products {
     width: 100%;
 
@@ -5,13 +9,15 @@ table.products {
         border-width: 1px 0;
         border-color: #b0b0b0;
         border-style: solid;
-        padding: 2px;
+        padding: 2px 5px;
     }
 
     td.icon {
         width: 15%;
+        text-align: center;
     }
     td.name {
+        font-weight: bold;
         width: 15%;
     }
     td.vendor {

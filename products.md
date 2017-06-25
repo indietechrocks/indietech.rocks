@@ -76,4 +76,24 @@ permalink: /products/
    licenseorcost="Free"
 %}
 
+{% include product-line.html
+   name="DuckDuckGo"
+   url="https://duckduckgo.com/"
+   imgurl="https://duckduckgo.com/assets/icons/meta/DDG-iOS-icon_120x120.png"
+   vendor="DuckDuckGo"
+   description="Internet search engine that emphasizes protecting searchers' privacy and avoiding the filter bubble of personalized search results."
+   type="Hosted service"
+   licenseorcost="Free"
+%}
+
+{% include product-line.html
+   name="StartPage"
+   url="https://www.startpage.com/"
+   imgurl="https://www.startpage.com/graphics/no_tm_startpage_retina_results_page_logo.png"
+   vendor="Surfboard Holding B.V."
+   description="Privacy focused search engine, founded in New York and launched on the Web in 1998"
+   type="Hosted service"
+   licenseorcost="Free"
+%}
+
 </table>

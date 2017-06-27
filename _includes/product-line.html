@@ -1,13 +1,48 @@
 <tr>
  <td class="icon">
-  <a name="{{ include.name }}"></a>
-  <a href="{{ include.url }}"><img src="{{ include.imgurl }}" width="100" height="100"></a>
+  <a name="{{ include.productname }}"></a>
+  <a href="{{ include.producturl }}">
+{% if include.productimgurl %}
+   <img src="{{ include.productimgurl }}" width="100" height="100">
+{% else %}
+   <img src="/images/default-logo.png" width="100" height="100">
+{% endif %}
+  </a>
  </td>
  <td class="name">
-  <a href="{{ include.url }}">{{ include.name }}</a>
+  <a href="{{ include.producturl }}">{{ include.productname }}</a>
  </td>
- <td class="vendor">{{ include.vendor }}</td>
- <td class="type">{{ include.type }}</td>
- <td class="description">{{ include.description }}</td>
- <td class="licenseorcost">{{ include.licenseorcost }}</td>
+ <td class="vendor">
+{% if include.vendorurl %}
+  <a href="{{ include.vendorurl }}">
+{{     include.vendorname }}
+  </a>
+{% else %}
+{{     include.vendorname }}
+{% endif %}
+ </td>
+ <td class="type">{{ include.producttype }}</td>
+ <td class="description">{{ include.productdescription }}</td>
+ <td class="licenseorcost">
+{% if include.productlicenseorcost %}
+{{     include.productlicenseorcost }}
+{% else %}
+?
+{% endif %}
+ </td>
 </tr>
+
+<!--
+Your listing MUST include:
+     productname          -- the name by which the product or service is known
+     producturl           -- a valid URL where to find out more about the product or service
+     productdescription   -- brief summary about what the product does or is for
+     producttype          -- what kind of product or service is it. Use one of the values
+                             already used elsewhere in this list if you can
+     vendorname           -- who offers the product or takes responsibility for it
+
+Your listing MAY also include (encouraged, not required):
+     productimgurl        -- a valid URL to an image of the product or its logo
+     productlicenseorcost -- the sticker price, or, as applicable, the license
+     vendorurl            -- a valid URL to the vendor's website
+-->

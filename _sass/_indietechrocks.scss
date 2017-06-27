@@ -55,6 +55,11 @@ table.products {
     td.icon {
         width: 15%;
         text-align: center;
+
+        img {
+            width: 100px;
+            height: auto;
+        }
     }
     td.name {
         font-weight: bold;

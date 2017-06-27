@@ -9,8 +9,6 @@
 title: indietech.rocks
 description: > # this means to ignore newlines until "baseurl:"
   Listing of products / projects / technologies that don't screw you.
-  Please help us expand it. Submit Git pull requests with new products at
-  https://github.com/indietechrocks/indietech.rocks
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://indietech.rocks" # the base hostname & protocol for your site
 twitter_username: indietechrocks

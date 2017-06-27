@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Known is a social publishing product that doesn't screw us"
+date:   2017-06-25 13:00:00 -0700
+categories: update
+---
+
+**Indie Web Summit in Portland, OR, June 25, 2017**: Built by two members of our very
+own <a href="https://indieweb.org/">Indie Web</a> community and supported by many others,
+we most certainly believe that Known is a product that incorporates the
+<a href="/values/">values</a> products need to have to be on this list.
+
+Go to the <a href="/products/#Known">Known</a> listing.

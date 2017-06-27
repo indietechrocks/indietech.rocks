@@ -133,6 +133,7 @@
 
 .footer-col-2 {
     width: 65%;
+    text-align: right;
 }
 
 /**
@@ -147,7 +148,9 @@
 }
 
 .post-list {
+    margin-top: $spacing-unit * 2;
     margin-left: 0;
+
     list-style: none;
 
     > li {

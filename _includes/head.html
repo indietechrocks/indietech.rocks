@@ -10,22 +10,23 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
 
-<style>
-.logo {
-  width: 20%;
+  <style>
+.logo-container {
+  width: 40px;
   margin: auto;
+  float: left;
 }
 
-#square-top{
-  logo-animation-duration: 1.5s;
-  logo-animation-name: logo-slidevert;
-  logo-animation-iteration-count: infinite;
+#logo-square-top {
+  animation-duration: 1.5s;
+  animation-name: logo-slidevert;
+  animation-iteration-count: infinite;
 }
 
-#square-right{
-  logo-animation-duration: 1.5s;
-  logo-animation-name: logo-slidehor;
-  logo-animation-iteration-count: infinite;
+#logo-square-right {
+  animation-duration: 1.5s;
+  animation-name: logo-slidehor;
+  animation-iteration-count: infinite;
 }
 
 @keyframes logo-slidevert {
@@ -34,7 +35,7 @@
   }
 
   25%, 50%, 75%{
-    transform: translate(0, 20px);
+    transform: translate(0, 10px);
   }
 }
 
@@ -44,8 +45,8 @@
   }
 
   50%{
-    transform: translate(20px, 0);
+    transform: translate(10px, 0);
   }
 }
-</style>
+  </style>
 </head>

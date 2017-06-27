@@ -9,4 +9,43 @@
   <link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
   <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}">
+
+<style>
+.logo {
+  width: 20%;
+  margin: auto;
+}
+
+#square-top{
+  logo-animation-duration: 1.5s;
+  logo-animation-name: logo-slidevert;
+  logo-animation-iteration-count: infinite;
+}
+
+#square-right{
+  logo-animation-duration: 1.5s;
+  logo-animation-name: logo-slidehor;
+  logo-animation-iteration-count: infinite;
+}
+
+@keyframes logo-slidevert {
+  0%, 100%{
+    transform: translate(0, 0);
+  }
+
+  25%, 50%, 75%{
+    transform: translate(0, 20px);
+  }
+}
+
+@keyframes logo-slidehor {
+  0%, 25%, 75%, 100%{
+    transform: translate(0, 0);
+  }
+
+  50%{
+    transform: translate(20px, 0);
+  }
+}
+</style>
 </head>

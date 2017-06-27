@@ -8,7 +8,7 @@
 # Site settings
 title: indietech.rocks
 description: > # this means to ignore newlines until "baseurl:"
-  Listing of products / projects / technologies that don't screw you.
+  Finding products that don't screw us.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://indietech.rocks" # the base hostname & protocol for your site
 twitter_username: indietechrocks

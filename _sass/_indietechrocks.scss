@@ -55,6 +55,8 @@ table.products {
     td.icon {
         width: 15%;
         text-align: center;
+        height: 100px;
+        overflow: hidden;
 
         img {
             width: 100px;

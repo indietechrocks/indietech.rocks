@@ -99,13 +99,14 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
-   name="DuckDuckGo"
-   url="https://duckduckgo.com/"
-   imgurl="https://duckduckgo.com/assets/icons/meta/DDG-iOS-icon_120x120.png"
-   vendor="DuckDuckGo"
-   description="Internet search engine that emphasizes protecting searchers' privacy and avoiding the filter bubble of personalized search results."
-   type="Hosted service"
-   licenseorcost="Free"
+   productname="DuckDuckGo"
+   producturl="https://duckduckgo.com/"
+   productimgurl="https://duckduckgo.com/assets/icons/meta/DDG-iOS-icon_120x120.png"
+   productdescription="Internet search engine that emphasizes protecting searchers' privacy and avoiding the filter bubble of personalized search results."
+   producttype="Hosted service"
+   productlicenseorcost="Free"
+   vendorname="DuckDuckGo"
+   vendorurl="https://duckduckgo.com/about"
 %}
 
 {% include product-line.html

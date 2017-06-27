@@ -3,18 +3,17 @@ layout: default
 ---
 
 <div class="home">
- <h1>Not all products are out to take advantage of you</h1>
+ <h1>Finding Products That Don't Screw Us</h1>
 
- <p>On this site, we collect them so others can
-    find them, too.</p>
+ <p>On this site, we collect them so others can find them, too.</p>
 
  <ul>
-  <li>Read our <a href="/values/">values</a>.</li>
+  <li>The <a href="/values/">values</a> that products must follow.</li>
   <li>Here are the <a href="/products/">products</a> we know of so far, but there are more.
       <a href="/about/">Tell us</a> about others.</li>
  </ul>
 
- <h2 class="posts">Recent posts</h2>
+ <h2 class="posts">Recent changes</h2>
  <ul class="post-list">
 {% for post in site.posts %}
   <li>
@@ -23,5 +22,4 @@ layout: default
   </li>
 {% endfor %}
  </ul>
- <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | prepend: site.baseurl }}">via RSS</a></p>
 </div>

@@ -12,14 +12,14 @@ table {
   animation-duration: 1.5s;
   animation-name: logo-slidevert;
   animation-iteration-count: infinite;
-  fill: $main-color-1;
+  fill: $brand-color-1;
 }
 
 #logo-square-right {
   animation-duration: 1.5s;
   animation-name: logo-slidehor;
   animation-iteration-count: infinite;
-  fill: $main-color-2;
+  fill: $brand-color-2;
 }
 
 @keyframes logo-slidevert {

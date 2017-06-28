@@ -6,5 +6,5 @@ categories: update
 ---
 
 **Indie Web Summit in Portland, OR, June 25, 2017**: We are proud that the
-first, rudimentary version of this site is now on-line. Improvements
-are welcome from anybody and everybody.
+ first, rudimentary version of this site is now on-line. Improvements
+ are welcome from anybody and everybody.

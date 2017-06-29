@@ -43,9 +43,9 @@ close($fh);
 if( $orgContent ne $newContent ) {
     print STDERR "Committing unless you interrupt within 3sec...\n";
     sleep 3;
-    system( "echo git add $filename" );
-    system( "echo git commit -m 'added post for $name'" );
-    system( "echo git push" );
+    system( "git add $filename" );
+    system( "git commit -m 'added post for $name'" );
+    system( "git push" );
 } else {
     print STDERR "No changes, aborting...\n";
 }

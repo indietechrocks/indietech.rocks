@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Brid.gy"
+date:   2017-07-02 03:54:20 +0000
+categories: update
+---
+
+Got a web site? Want replies and likes on your site?  Want to post and tweet from your site?
+ Bridgy is for you. Developed by <a href="https://snarfed.org/">Ryan Barrett</a>, Brid.gy
+ is provided as a web service, and also in source code which was released into the public
+ domain.
+
+Go to the <a href="/products/#Bridgy">Bridgy</a> listing.
+

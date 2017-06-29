@@ -1,11 +1,9 @@
 ---
 layout: post
-title:  "quill"
+title:  "Quill is a simple app for posting text notes to your website."
 date:   2017-06-29 02:31:20 +0000
 categories: update
 ---
-
-Quill is a simple app for posting text notes to your website.
 
 Written by <a href="https://aaronparecki.com/">Aaron Parecki</a>, it supports the
  W3C <a href="https://indieweb.org/micropub">Micropub</a> standard and is available

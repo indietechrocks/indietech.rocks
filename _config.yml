@@ -13,6 +13,7 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://indietech.rocks" # the base hostname & protocol for your site
 
 exclude: [ 'bin' ]
+future: false
 
 twitter_username: indietechrocks
 github_username: indietechrocks

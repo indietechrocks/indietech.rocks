@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Quill is a simple app for posting text notes to your website."
+title:  "Quill is a simple app for posting text notes to your website"
 date:   2017-06-29 02:31:20 +0000
 categories: update
 ---

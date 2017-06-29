@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Brid.gy"
+title:  "Brid.gy adds Likes and Tweets from elsewhere on the web to your website"
 date:   2017-07-02 03:54:20 +0000
 categories: update
 ---

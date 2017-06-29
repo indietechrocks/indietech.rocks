@@ -80,7 +80,7 @@ Your listing MAY also include (encouraged, not required):
    productname="Ghost"
    producturl="https://ghost.org/"
    productimgurl="https://ghost.org/favicon.png"
-   productdescription="Publishing platform"
+   productdescription="An open source, hackable platform for building and running a modern online publication"
    producttype="Server-side software"
    productlicenseorcost="Apache 2.0"
    vendorname="Ghost Foundation"

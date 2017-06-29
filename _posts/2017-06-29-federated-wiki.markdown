@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  Federated Wiki is an innovative, decentralized wiki
+title:  "Federated Wiki is an innovative, decentralized wiki"
 date:   2017-06-30 02:43:54 +0000
 categories: update
 ---

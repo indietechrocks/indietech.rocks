@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "ghost"
+date:   2017-07-01 03:46:11 +0000
+categories: update
+---
+
+Ghost is a fully open source, hackable platform for building and running a modern online publication.
+
+Starting from a Kickstarter campaign, Ghost is now developed by a "a proud non-profit
+organization building technology for he future of journalism".
+
+Go to the <a href="/products/#Ghost">Ghost</a> listing.
+

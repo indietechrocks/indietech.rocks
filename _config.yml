@@ -11,6 +11,9 @@ description: > # this means to ignore newlines until "baseurl:"
   Finding products that don't screw us.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://indietech.rocks" # the base hostname & protocol for your site
+
+exclude: [ 'bin' ]
+
 twitter_username: indietechrocks
 github_username: indietechrocks
 facebook_username: indietechrocks

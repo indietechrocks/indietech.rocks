@@ -5,7 +5,7 @@ permalink: /about/
 ---
 
 At [Indie Web Summit 2017](https://2017.indieweb.org/), a group of attendees decided to create
-this site.
+this site. Here are some notes in case you are interested: [indieweb.org/2017/Demos](https://indieweb.org/2017/Demos)
 
 Indietech.rocks is provided as a service to the community. If you know of products that incorporate
 these [values](values), please do tell us so we can add them. Ideally, you fork repository

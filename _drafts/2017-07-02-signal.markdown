@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Signal is a private messaging and calling app for phones"
+date:   2017-07-02 22:29:35 +0000
+categories: update
+---
+
+On iOS and Android, the Signal app lets you message and talk to
+ your friends, protected from prying eyes by high-grade cryptography.
+ It's free as in beer, and free as an speech.
+
+Go to the <a href="/products/#Signal">signal</a> listing.
+

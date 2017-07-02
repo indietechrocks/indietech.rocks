@@ -7,7 +7,8 @@ categories: update
 
 On iOS and Android, the Signal app lets you message and talk to
  your friends, protected from prying eyes by high-grade cryptography.
- It's free as in beer, and free as an speech.
+ It's free as in beer, and free as an speech. It also exists as a
+ Google Chrome app on the desktop.
 
 Go to the <a href="/products/#Signal">signal</a> listing.
 

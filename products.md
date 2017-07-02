@@ -130,4 +130,26 @@ Your listing MAY also include (encouraged, not required):
    vendorname="Ray Wang and Samer Albahra"
 %}
 
+{% include product-line.html
+   productname="Signal"
+   producturl="https://whispersystems.org/"
+   productimgurl="http://is4.mzstatic.com/image/thumb/Purple117/v4/c5/d9/4d/c5d94dec-a973-3f28-c85c-28ee4a45dbeb/source/175x175bb.jpg"
+   productdescription="Encrypted chat and voice calls"
+   producttype="Mobile app"
+   productlicenseorcost="GPLv3"
+   vendorname="Open Whisper Systems"
+   vendorurl="https://whispersystems.org/"
+%}
+
+{% include product-line.html
+   productname="Nextcloud"
+   producturl="https://nextcloud.com/"
+   productimgurl="https://avatars2.githubusercontent.com/u/19211038?v=3&s=200"
+   productdescription="File sharing"
+   producttype="Server-side app"
+   productlicenseorcost="AGPLv3"
+   vendorname="Nextcloud"
+   vendorurl="https://nextcloud.com/"
+%}
+
 </table>

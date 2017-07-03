@@ -84,3 +84,56 @@ table.products {
 h2.posts {
     text-align: center;
 }
+
+
+@media only screen 
+  and (max-device-width: 667px) { 
+  	table.products, table.products td, table.products tr {
+    	display: block;
+    	position:relative
+    	
+	}
+	table.products td {
+		border:none;
+	}
+
+	table.products tr { 
+	    border-width: 1px 0;
+        border-color: #b0b0b0;
+        border-style: solid;
+        padding: 10px 15px;
+	}
+		
+
+	/* Left columns and headers for mobile */ 
+	
+    
+    table.products td.icon, table.products td.vendor:before, table.products td.type:before, table.products td.description:before , table.products td.licenseorcost:before { 
+		/* Now like a table header */
+		position: absolute;
+		/* Top/left values mimic padding */
+		top: 6px;
+		left: 6px;
+		width: 45%; 
+		padding-right: 10px; 
+		white-space: nowrap;
+	}
+    
+    td.vendor:before{content="Vendor"}	
+	td.type:before{content="Type"}
+	td.description:before{content="Description"}
+	td.licenseorcost:before {content="License/cost"}
+	
+	
+	/* Right columns for mobile */
+	table.products td.name, table.products td.vendor, table.products td.type, table.products td.description , table.products td.licenseorcost { 
+		/* Behave  like a "row" */
+		border: none;
+		position: relative;
+		padding-left: 50%!important; 
+		width:45%
+	}
+	
+
+
+}

@@ -87,8 +87,8 @@ h2.posts {
 
 
 // usage
+@media only screen   and (max-device-width: 667px)  { 
 
-@include media-query($on-iphone) {
   	table.products, table.products td, table.products tr {
     	display: block;
     	position:relative
@@ -120,10 +120,10 @@ h2.posts {
 		white-space: nowrap;
 	}
     
-    td.vendor:before{content="Vendor";}	
-	td.type:before{content="Type";}
-	td.description:before{content="Description";}
-	td.licenseorcost:before {content="License/cost";}
+    td.vendor:before{content:"Vendor";}	
+	td.type:before{content:"Type";}
+	td.description:before{content:"Description";}
+	td.licenseorcost:before {content:"License/cost";}
 	
 	
 	/* Right columns for mobile */

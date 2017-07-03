@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Nextcloud"
+title:  "Nextcloud for file management and sharing"
 date:   2017-07-03 15:41:33 +0000
 categories: update
 ---

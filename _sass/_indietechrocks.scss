@@ -114,11 +114,11 @@ h2.posts {
 		top: 6px;
 		left: 6px;
 		width: 45%; 
-		padding-right: 10px; 
+		padding-right: 10px;
+		padding-top: 5px; 
 		white-space: nowrap;
 	}
     
-    td.icon:before{content:"icon";}	
     td.name:before{content:"Name";}	
     td.vendor:before{content:"Vendor";}	
 	td.type:before{content:"Type";}

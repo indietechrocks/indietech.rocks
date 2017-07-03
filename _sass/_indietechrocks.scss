@@ -85,15 +85,10 @@ h2.posts {
     text-align: center;
 }
 
-@mixin max-screen($max)
-  @include mq($max-width: $max) {
-    @content;
-  }
-}
 
 // usage
 
-@include media-query($on-palm) {
+@include media-query($on-iphone) {
   	table.products, table.products td, table.products tr {
     	display: block;
     	position:relative

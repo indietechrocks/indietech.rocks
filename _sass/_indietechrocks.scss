@@ -85,9 +85,15 @@ h2.posts {
     text-align: center;
 }
 
+@mixin max-screen($max)
+  @include mq($max-width: $max) {
+    @content;
+  }
+}
 
-@media only screen 
-  and (max-device-width: 667px) { 
+// usage
+
+@include max-screen(667px) {
   	table.products, table.products td, table.products tr {
     	display: block;
     	position:relative

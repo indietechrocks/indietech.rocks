@@ -93,7 +93,7 @@ h2.posts {
 
 // usage
 
-@include max-screen(667px) {
+@include media-query($on-palm) {
   	table.products, table.products td, table.products tr {
     	display: block;
     	position:relative

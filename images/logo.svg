@@ -5,14 +5,13 @@
   animation-duration: 1.5s;
   animation-name: logo-slidevert;
   animation-iteration-count: infinite;
-  fill: $brand-color-main;
+  fill: #EC7357;
 }
-
 #logo-square-right {
   animation-duration: 1.5s;
   animation-name: logo-slidehor;
   animation-iteration-count: infinite;
-  fill: $brand-color-link;
+  fill: #30A9DE;
 }
 
 @keyframes logo-slidevert {

@@ -8,136 +8,94 @@ table {
   float: left;
 }
 
-#logo-square-top {
-  animation-duration: 1.5s;
-  animation-name: logo-slidevert;
-  animation-iteration-count: infinite;
-  fill: $brand-color-main;
-}
-
-#logo-square-right {
-  animation-duration: 1.5s;
-  animation-name: logo-slidehor;
-  animation-iteration-count: infinite;
-  fill: $brand-color-link;
-}
-
-@keyframes logo-slidevert {
-  0%, 100%{
-    transform: translate(0, 0);
-  }
-
-  25%, 50%, 75%{
-    transform: translate(0, 10px);
-  }
-}
-
-@keyframes logo-slidehor {
-  0%, 25%, 75%, 100%{
-    transform: translate(0, 0);
-  }
-
-  50%{
-    transform: translate(10px, 0);
-  }
-}
-
 table.products {
-    width: 100%;
+  width: 100%;
 
-    td {
-        border-width: 1px 0;
-        border-color: #b0b0b0;
-        border-style: solid;
-        padding: 10px 15px;
-    }
+  td {
+    border-width: 1px 0;
+    border-color: #b0b0b0;
+    border-style: solid;
+    padding: 10px 15px;
+  }
+  td.icon {
+    width: 15%;
+    text-align: center;
+    height: 100px;
+    overflow: hidden;
 
-    td.icon {
-        width: 15%;
-        text-align: center;
-        height: 100px;
-        overflow: hidden;
-
-        img {
-            width: 100px;
-            height: auto;
-        }
+    img {
+      width: 100px;
+      height: auto;
     }
-    td.name {
-        font-weight: bold;
-        width: 15%;
-    }
-    td.vendor {
-        width: 15%;
-    }
-    td.type {
-        width: 15%;
-    }
-    td.description {
-        width: 30%;
-    }
-    td.licenseorcost {
-        width: 10%;
-    }
+  }
+  td.name {
+    font-weight: bold;
+    width: 15%;
+  }
+  td.vendor {
+    width: 15%;
+  }
+  td.type {
+    width: 15%;
+  }
+  td.description {
+    width: 30%;
+  }
+  td.licenseorcost {
+    width: 10%;
+  }
 }
 
 h2.posts {
-    text-align: center;
+  text-align: center;
 }
 
-@media only screen   and (max-device-width: 667px)  { 
+@media only screen  and (max-device-width: 667px) {
 
-  	table.products, table.products td, table.products tr {
-    	display: block;
-    	position:relative
-    	
-	}
-	table.products td {
-		border:none;
-	}
+  table.products, table.products td, table.products tr {
+    display: block;
+    position:relative;
+  }
+  table.products tr {
+    border-width: 1px 0;
+    border-color: #b0b0b0;
+    border-style: solid;
+    padding: 10px 15px;
+  }
+  table.products td {
+    border:none;
+  }
 
-	table.products tr { 
-	    border-width: 1px 0;
-        border-color: #b0b0b0;
-        border-style: solid;
-        padding: 10px 15px;
-	}
-		
+  /* Left columns and headers for mobile */
 
-	/* Left columns and headers for mobile */ 
-	
-    
-    table.products td.icon:before, table.products td.name:before, table.products td.vendor:before, table.products td.type:before, table.products td.description:before , table.products td.licenseorcost:before { 
-		/* Now like a table header */
-		position: absolute;
-		/* Top/left values mimic padding */
-		top: 6px;
-		left: 6px;
-		width: 45%; 
-		padding-right: 10px;
-		padding-top: 5px; 
-		white-space: nowrap;
-	}
-    
-    td.name:before{content:"Name";}	
-    td.vendor:before{content:"Vendor";}	
-	td.type:before{content:"Type";}
-	td.description:before{content:"Description";}
-	td.licenseorcost:before {content:"License/cost";}
-	
-	
-	/* Right columns for mobile */
-	table.products td.icon, table.products td.name, table.products td.vendor, table.products td.type, table.products td.description , table.products td.licenseorcost { 
-		/* Behave  like a "row" */
-		border: none;
-		position: relative;
-		padding-left: 50%!important; 
-		width:45%;
-		text-align:left;
-	}
-	table.products td.icon {
-		height:auto;
-	}
+  table.products td.icon:before, table.products td.name:before, table.products td.vendor:before, table.products td.type:before, table.products td.description:before , table.products td.licenseorcost:before {
+    /* Now like a table header */
+    position: absolute;
+    /* Top/left values mimic padding */
+    top: 6px;
+    left: 6px;
+    width: 45%;
+    padding-right: 10px;
+    padding-top: 5px;
+    white-space: nowrap;
+  }
 
+  td.name:before{content:"Name";}
+  td.vendor:before{content:"Vendor";}
+  td.type:before{content:"Type";}
+  td.description:before{content:"Description";}
+  td.licenseorcost:before {content:"License/cost";}
 
+  /* Right columns for mobile */
+  table.products td.icon, table.products td.name, table.products td.vendor, table.products td.type, table.products td.description , table.products td.licenseorcost {
+    /* Behave  like a "row" */
+    border: none;
+    position: relative;
+    padding-left: 50%!important;
+    width:45%;
+    text-align:left;
+  }
+  table.products td.icon {
+    height:auto;
+  }
 }

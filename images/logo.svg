@@ -1,4 +1,42 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 90 90">
+  <style>
+    /* <![CDATA[ */
+#logo-square-top {
+  animation-duration: 1.5s;
+  animation-name: logo-slidevert;
+  animation-iteration-count: infinite;
+  fill: $brand-color-main;
+}
+
+#logo-square-right {
+  animation-duration: 1.5s;
+  animation-name: logo-slidehor;
+  animation-iteration-count: infinite;
+  fill: $brand-color-link;
+}
+
+@keyframes logo-slidevert {
+  0%, 100%{
+    transform: translate(0, 0);
+  }
+
+  25%, 50%, 75%{
+    transform: translate(0, 10px);
+  }
+}
+
+@keyframes logo-slidehor {
+  0%, 25%, 75%, 100%{
+    transform: translate(0, 0);
+  }
+
+  50%{
+    transform: translate(10px, 0);
+  }
+}
+    /* ]]> */
+  </style>
+
   <symbol id="logo-square" viewBox="0 0 20 20">
     <rect x="0" y="0" width="20" height="20" />
   </symbol>

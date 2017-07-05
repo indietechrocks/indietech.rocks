@@ -152,4 +152,15 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="https://nextcloud.com/"
 %}
 
+{% include product-line.html
+   productname="Selfoss"
+   producturl="https://selfoss.aditu.de/"
+   productimgurl="https://selfoss.aditu.de/images/name.png"
+   productdescription="Multipurpose rss reader, live stream, mashup, aggregation web application"
+   producttype="Server-side app"
+   productlicenseorcost="GPLv3"
+   vendorname="Tobias Zeising"
+   vendorurl="https://aditu.de/"
+%}
+
 </table>

@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Selfoss feed reader"
+date:   2017-07-05 03:40:04 +0000
+categories: update
+---
+
+Selfoss describes itself as a "new multipurpose rss reader, live stream, mashup, aggregation web application".
+It is an open-source, server-side web application that has "spouts" not only for standard feed formats like
+RSS and Atom, but also for a number of web silos, such as Tumblr or Youtube.
+
+Go to the <a href="/products/#Selfoss">Selfoss</a> listing.

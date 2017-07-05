@@ -4,8 +4,14 @@ table {
 
 .logo-container {
   width: 50px;
-  margin: 2px 16px 0 0;
+  height: 50px;
+  margin: 0 16px 0 0;
   float: left;
+  background: url(/images/logo-50x50.png);
+  background-repeat: none;
+}
+.logo-container svg {
+  background: $background-color;
 }
 
 table.products {

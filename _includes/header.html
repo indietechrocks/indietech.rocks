@@ -2,10 +2,58 @@
 
   <div class="wrapper">
     <div class="logo-container">
-      ​<picture>
-        <source srcset="/images/logo.svg" type="image/svg+xml">
-        <img src="/images/logo-50x50.png">
-      </picture>
+
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 90 90">
+  <style>
+    /* <![CDATA[ */
+#logo-square-top {
+  animation-duration: 1.5s;
+  animation-name: logo-slidevert;
+  animation-iteration-count: infinite;
+  fill: #EC7357;
+}
+#logo-square-right {
+  animation-duration: 1.5s;
+  animation-name: logo-slidehor;
+  animation-iteration-count: infinite;
+  fill: #30A9DE;
+}
+
+@keyframes logo-slidevert {
+  0%, 100%{
+    transform: translate(0, 0);
+  }
+
+  25%, 50%, 75%{
+    transform: translate(0, 10px);
+  }
+}
+
+@keyframes logo-slidehor {
+  0%, 25%, 75%, 100%{
+    transform: translate(0, 0);
+  }
+
+  50%{
+    transform: translate(10px, 0);
+  }
+}
+    /* ]]> */
+  </style>
+
+  <symbol id="logo-square" viewBox="0 0 20 20">
+    <rect x="0" y="0" width="20" height="20" />
+  </symbol>
+
+  <use id="logo-square-top" href="#logo-square" x="20" y="0" width="19" height="19" />
+  <use href="#logo-square" x="0" y="30" width="19" height="19" fill="#566270" />
+  <use href="#logo-square" x="20" y="30" width="19" height="19" fill="#566270" />
+  <use href="#logo-square" x="40" y="30" width="19" height="19" fill="#566270" />
+  <use id="logo-square-right" href="#logo-square" x="60" y="30" width="19" height="19" />
+  <use href="#logo-square" x="20" y="50" width="19" height="19" fill="#566270" />
+  <use href="#logo-square" x="20" y="70" width="19" height="19" fill="#566270" />
+  <use href="#logo-square" x="40" y="70" width="19" height="19" fill="#566270" />
+</svg>
     </div>
 
     <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>

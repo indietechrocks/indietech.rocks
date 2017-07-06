@@ -163,4 +163,14 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="https://aditu.de/"
 %}
 
+{% include product-line.html
+   productname="Shaarli"
+   producturl="https://github.com/shaarli/Shaarli"
+   productimgurl="https://raw.githubusercontent.com/shaarli/Shaarli/master/images/logo.png"
+   productdescription="Personal URL bookmarking app"
+   producttype="Server-side app"
+   productlicenseorcost="GPLv3 et al"
+   vendorname="Community"
+%}
+
 </table>

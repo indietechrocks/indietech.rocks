@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Shaarli for privately bookmarking URLs
+title:  "Shaarli for privately bookmarking URLs"
 date:   2017-07-06 03:46:17 +0000
 categories: update
 ---

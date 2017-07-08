@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mastodons is a free, open-source social etnwork"
+title:  "Mastodons is a free, open-source social network"
 date:   2017-07-08 03:09:18 +0000
 categories: update
 ---

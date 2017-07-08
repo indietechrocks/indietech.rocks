@@ -184,4 +184,26 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="https://github.com/orgs/tootsuite/people"
 %}
 
+{% include product-line.html
+   productname="Riot"
+   producturl="https://about.riot.im/"
+   productimgurl="https://about.riot.im/wp-content/themes/riot/img/logo.png"
+   productdescription="Secure chat, voice and video with bridges into other networks"
+   producttype="Server, mobile, desktop"
+   productlicenseorcost="Apache 2.0"
+   vendorname="Community"
+   vendorurl="https://github.com/orgs/vector-im/people"
+%}
+
+{% include product-line.html
+   productname="Synapse"
+   producturl="https://matrix.org/docs/projects/server/synapse.html"
+   productimgurl="https://matrix.org/blog/wp-content/uploads/2015/01/logo1.png"
+   productdescription="Secure chat, voice and video with bridges into other networks"
+   producttype="Server-side app"
+   productlicenseorcost="Apache 2.0"
+   vendorname="Community"
+   vendorurl="https://github.com/orgs/matrix-org/people"
+%}
+
 </table>

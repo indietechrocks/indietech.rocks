@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Riot is an open team collaboration client"
+date:   2017-07-08 20:51:01 +0000
+categories: update
+---
+
+Part of the <a href="https://matrix.org/">Matrix.org</a> family of products,
+Riot is a beautiful app enabling chat, voice, video and file sharing over
+the decentralized Matrix protocol. It also has many integrations into other
+networks, such as Slack, IRC and Twitter.
+
+Go to the <a href="/products/#Riot">Riot</a> listing.
+

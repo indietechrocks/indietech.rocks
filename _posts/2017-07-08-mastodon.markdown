@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Mastodons is a free, open-source social etnwork"
+date:   2017-07-08 03:09:18 +0000
+categories: update
+---
+
+Wouldn't social media be great if the social media sites didn't all track your every move,
+sell out your data to the highest bidder, and bombard you with ads? There are alternatives,
+such as Mastodon.
+
+Based on the open GNU Social protocol, you can set up your own instance of Mastodon for
+your friends and family, and still connect with anybody else, even if they are not using
+your website. And if you are used to Twitter, you will feel right at home.
+
+Go to the <a href="/products/#Mastodon">Mastodon</a> listing.
+

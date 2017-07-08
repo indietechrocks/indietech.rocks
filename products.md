@@ -173,4 +173,15 @@ Your listing MAY also include (encouraged, not required):
    vendorname="Community"
 %}
 
+{% include product-line.html
+   productname="Mastodon"
+   producturl="https://mastodon.social/"
+   productimgurl="https://assets.mastodon.social/packs/logo-1c01b10e55cd17e27a4df85991e030d9.png"
+   productdescription="Free, open-source social network"
+   producttype="Server-side app"
+   productlicenseorcost="AGPLv3"
+   vendorname="Community"
+   vendorurl="https://github.com/orgs/tootsuite/people"
+%}
+
 </table>

@@ -1,5 +1,7 @@
 .PHONY: all clean jekyll open
 
+STAGEDIR=./_site
+
 all: jekyll
 
 clean:

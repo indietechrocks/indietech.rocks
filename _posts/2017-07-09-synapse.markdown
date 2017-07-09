@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "The Synapse server for secure chat, voice and video"
+date:   2017-07-09 22:16:00 +0000
+categories: update
+---
+
+Yesterday, we added the <a href="/product/#Riot">Riot</a> app that
+enables secure chat, voice and video over the decentralized Matrix
+protocol. Today, it's time we added the Synapse server, which is
+the canonical Matrix server implementation.
+
+Go to the <a href="/products/#Synapse">Synapse</a> listing.

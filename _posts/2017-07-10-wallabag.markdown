@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Wallabag"
+date:   2017-07-10 16:20:50 +0000
+categories: update
+---
+
+Ever come across an interesting, but long, article on the web that you'd
+love to read, but don't have time for right now? Enter Wallabag, which
+lets you easily bookmark this article. But unlike just bookmarking, Wallabag
+stores the entire article, so you can come back to it any time later and it
+will still be there for you to enjoy.
+
+Wallabag exists both as a hosted service, and as a self-hostable server-side
+app.
+
+Go to the <a href="/products/#Wallabag">Wallabag</a> listing.

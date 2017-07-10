@@ -206,4 +206,15 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="https://github.com/orgs/matrix-org/people"
 %}
 
+{% include product-line.html
+   productname="Wallabag"
+   producturl="https://wallabag.org/"
+   productimgurl="https://avatars0.githubusercontent.com/u/4143872?v=3&s=200"
+   productdescription="Save and classify articles. Read them later. Freely. "
+   producttype="Server-side app"
+   productlicenseorcost="MIT"
+   vendorname="Community"
+   vendorurl="https://github.com/orgs/wallabag/people"
+%}
+
 </table>

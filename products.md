@@ -217,4 +217,15 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="https://github.com/orgs/wallabag/people"
 %}
 
+{% include product-line.html
+   productname="HestiaPi"
+   producturl="https://hestiapi.com/"
+   productimgurl="https://hestiapi.com/wp-content/uploads/2017/02/hestiapi-logo-e1490720026818.png"
+   productdescription="Open Smart thermostat without the personal data harvesting"
+   producttype="Hardware with pre-installed software"
+   productlicenseorcost="GPLv3"
+   vendorname="HestiaPi"
+   vendorurl="https://hestiapi.com/"
+%}
+
 </table>

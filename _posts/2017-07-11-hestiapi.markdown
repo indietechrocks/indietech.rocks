@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "HestiaPi is a smart thermostat that does not spy on you"
+date:   2017-07-11 17:29:51 +0000
+categories: update
+---
+
+Smart thermostats like the Nest thermostat are cool, but most of them collect
+lots of data about us and our families and ship it off to the vendor.
+Who then is not even clear just what all the things are they do with it.
+
+Enter HestiaPi, an "Open Smart thermostat without the personal data 
+harvesting". It is completely open-source -- both hardware and software --
+and built using the Raspberry Pi.
+
+Go to the <a href="/products/#HestiaPi">HestiaPi</a> listing.
+

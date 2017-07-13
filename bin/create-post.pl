@@ -8,6 +8,7 @@ my $name = $ARGV[0];
 unless( $name ) {
     die( "Provide name for post" );
 }
+my $capName = ucfirst( $name );
 my ($sec,$min,$hour,$mday,$mon,$year,$wday,$yday,$isdst) = gmtime(time);
 
 my $filename = sprintf( "_posts/%04d-%02d-%02d-%s.markdown", $year+1900, $mon+1, $mday, $name );
@@ -20,12 +21,12 @@ if( -e $filename ) {
 my $orgContent = <<END;
 ---
 layout: post
-title:  "$name"
+title:  "$capName"
 date:   $tstamp
 categories: update
 ---
 
-Go to the <a href="/products/#$name">$name</a> listing.
+Go to the <a href="/products/#$capName">$capName</a> listing.
 
 END
 

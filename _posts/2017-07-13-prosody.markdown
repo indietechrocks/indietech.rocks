@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Prosody is a instant messaging server"
+date:   2017-07-13 21:50:19 +0000
+categories: update
+---
+
+Texting and chatting on-line are all nice and good, but how come it
+requires some kind of Big Brother company like Facebook or Google so
+we can chat with our friends? 
+
+Well, it doesn't. Prosody is a modern XMPP server, which means it
+lets you chat with your friends, using widely available XMPP client
+software, without Big Brother, and without anybody listening but you.
+
+Go to the <a href="/products/#Prosody">Prosody</a> listing.
+

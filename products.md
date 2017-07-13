@@ -228,4 +228,15 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="https://hestiapi.com/"
 %}
 
+{% include product-line.html
+   productname="Prosody IM"
+   producturl="https://prosody.im/"
+   productimgurl="/images/products/prosody.png"
+   productdescription="Instant-messaging server"
+   producttype="Server-side app"
+   productlicenseorcost="MIT/X11"
+   vendorname="Community"
+   vendorurl="http://prosody.im/discuss"
+%}
+
 </table>

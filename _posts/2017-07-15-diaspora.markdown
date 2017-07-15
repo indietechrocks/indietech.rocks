@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Diaspora* is probably the best-known of the decentralized social networks"
+date:   2017-07-15 03:45:34 +0000
+categories: update
+---
+
+Even Mark Zuckerberg, CEO of the world's most dominant (and centralized) social network,
+Facebook, supposedly donated to it. Diaspora* burst on the scene with the goal to 
+make social networking possible without somebody like Mark Zuckerberg in the middle.
+And it works.
+
+The link on the product page on this site leads to the sign-up page on a random Diaspora*
+installation, you can find dozens of high-quality Diaspora* installations to choose from
+<a href="https://podupti.me/">here</a>. Of course, nothing is preventing you from
+running your own installation either.
+
+Go to the <a href="/products/#Diaspora">Diaspora*</a> listing.
+

@@ -253,7 +253,7 @@ Your listing MAY also include (encouraged, not required):
 {% include product-line.html
    productname="Kodi"
    producturl="https://kodi.tv/"
-   productimgurl="https://kodi.tv/sites/default/themes/kodi/logo-stacked.svg"
+   productimgurl="/images/products/kodi.png"
    productdescription="The ultimate entertainment center"
    producttype="Software application"
    productlicenseorcost="GPLv2"
@@ -276,6 +276,7 @@ Your listing MAY also include (encouraged, not required):
 {% include product-line.html
    productname="Firefox"
    producturl="https://www.mozilla.org/en-US/firefox/"
+   productimgurl="/images/products/firefox.jpg"
    productdescription="Web browser"
    producttype="App"
    productlicenseorcost="Mozilla Public License"

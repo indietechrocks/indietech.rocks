@@ -1,0 +1,15 @@
+---
+layout: post
+title:  "Kodi is your ultimate entertainment center"
+date:   2017-07-16 20:19:35 +0000
+categories: update
+---
+
+Kodi spawned from the love of media. It is an entertainment hub that brings all your
+digital media together into a beautiful and user friendly package. It is 100%
+free and open source, very customisable and runs on a wide variety of devices.
+It is supported by a dedicated team of volunteers and a huge community.
+(from the kodi.tv website)
+
+Go to the <a href="/products/#Kodi">Kodi</a> listing.
+

@@ -239,4 +239,48 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="http://prosody.im/discuss"
 %}
 
+{% include product-line.html
+   productname="Diaspora*"
+   producturl="https://podupti.me/"
+   productimgurl="/images/products/diaspora.png"
+   productdescription="Decentralized social network with many pods"
+   producttype="Hosted service"
+   productlicenseorcost="AGPLv3"
+   vendorname="Diaspora Foundation"
+   vendorurl="https://diasporafoundation.org/"
+%}
+
+{% include product-line.html
+   productname="Kodi"
+   producturl="https://kodi.tv/"
+   productimgurl="https://kodi.tv/sites/default/themes/kodi/logo-stacked.svg"
+   productdescription="The ultimate entertainment center"
+   producttype="Software application"
+   productlicenseorcost="GPLv2"
+   vendorname="XBMC Foundation"
+   vendorurl="https://kodi.tv/about/xbmc-foundation"
+%}
+
+{% comment %}
+{% include product-line.html
+   productname="River"
+   producturl="https://github.com/scripting/river5"
+   productdescription="A river-of-news RSS aggregator"
+   producttype="Server-side app"
+   productlicenseorcost="AGPLv3"
+   vendorname="Dave Winer"
+   vendorurl="http://scripting.com/"
+%}
+{% endcomment %}
+
+{% include product-line.html
+   productname="Firefox"
+   producturl="https://www.mozilla.org/en-US/firefox/"
+   productdescription="Web browser"
+   producttype="App"
+   productlicenseorcost="Mozilla Public License"
+   vendorname="Mozilla Corporation"
+   vendorurl="http://www.mozilla.org/"
+%}
+
 </table>

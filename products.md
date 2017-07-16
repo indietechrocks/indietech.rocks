@@ -90,7 +90,7 @@ Your listing MAY also include (encouraged, not required):
 {% include product-line.html
    productname="Brid.gy"
    producturl="https://brid.gy/"
-   productimgurl="https://brid.gy/static/bridgy_logo.jpg"
+   productimgurl="/images/products/bridgy.jpg"
    productdescription="Pulls comments, likes, and reshares on social networks back to your web site"
    producttype="Hosted service"
    productlicenseorcost="Free"

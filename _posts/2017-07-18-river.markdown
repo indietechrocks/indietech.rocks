@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "Aggregate your RSS with River"
+date:   2017-07-18 18:29:10 +0000
+categories: update
+---
+
+You can choose your friends on Facebook and Twitter. But that does not mean these
+companies will send you all of their posts. They select, and they won't even tell
+you how they pick what they show you and what not. That's of course because they
+do not practice the <a href="/values/">values</a> of IndieTech.rocks, which put you
+in control. They value their advertising dollars more than you.
+
+What can we do about that? Simple: use RSS and an RSS Reader, such as
+River5 from RSS godfather <a href="http://davewiner.com/">Dave Winer</a>.
+Not only does it put you in control which news you see, and which you don't,
+but it's also open-source, so there is no lock-in. And because River runs on
+a server, it's harder to track you across the web, and thus more privacy-protecting
+for your news habits as well.
+
+Go to the <a href="/products/#River">River</a> listing.
+

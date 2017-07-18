@@ -261,18 +261,6 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="https://kodi.tv/about/xbmc-foundation"
 %}
 
-{% comment %}
-{% include product-line.html
-   productname="River"
-   producturl="https://github.com/scripting/river5"
-   productdescription="A river-of-news RSS aggregator"
-   producttype="Server-side app"
-   productlicenseorcost="AGPLv3"
-   vendorname="Dave Winer"
-   vendorurl="http://scripting.com/"
-%}
-{% endcomment %}
-
 {% include product-line.html
    productname="Firefox"
    producturl="https://www.mozilla.org/en-US/firefox/"
@@ -282,6 +270,16 @@ Your listing MAY also include (encouraged, not required):
    productlicenseorcost="Mozilla Public License"
    vendorname="Mozilla Corporation"
    vendorurl="http://www.mozilla.org/"
+%}
+
+{% include product-line.html
+   productname="River"
+   producturl="https://github.com/scripting/river5"
+   productdescription="A river-of-news RSS aggregator"
+   producttype="Server-side app"
+   productlicenseorcost="MIT"
+   vendorname="Dave Winer"
+   vendorurl="http://scripting.com/"
 %}
 
 </table>

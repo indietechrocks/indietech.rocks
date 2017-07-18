@@ -275,6 +275,7 @@ Your listing MAY also include (encouraged, not required):
 {% include product-line.html
    productname="River"
    producturl="https://github.com/scripting/river5"
+   productimgurl="/images/products/river5.png"
    productdescription="A river-of-news RSS aggregator"
    producttype="Server-side app"
    productlicenseorcost="MIT"

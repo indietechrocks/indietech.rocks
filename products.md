@@ -283,4 +283,15 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="http://scripting.com/"
 %}
 
+{% include product-line.html
+   productname="Webtrees"
+   producturl="https://www.webtrees.net/"
+   productimgurl="https://www.webtrees.net/templates/webtrees/images/webtrees.jpg"
+   productdescription="Web-based family history software"
+   producttype="Server-side app"
+   productlicenseorcost="GPLv3"
+   vendorname="Webtrees team"
+   vendorurl="https://launchpad.net/~webtrees-team"
+%}
+
 </table>

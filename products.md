@@ -294,4 +294,15 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="https://launchpad.net/~webtrees-team"
 %}
 
+{% include product-line.html
+   productname="Little Outliner"
+   producturl="http://littleoutliner.com/"
+   productimgurl="/images/littleoutliner.png"
+   productdescription="Easy to learn, entry-level outliner that runs in a web browser"
+   producttype="Server-side app"
+   productlicenseorcost="Proprietary"
+   vendorname="Dave Winer"
+   vendorurl="http://scripting.com/"
+%}
+
 </table>

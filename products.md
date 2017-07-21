@@ -297,7 +297,7 @@ Your listing MAY also include (encouraged, not required):
 {% include product-line.html
    productname="Little Outliner"
    producturl="http://littleoutliner.com/"
-   productimgurl="/images/littleoutliner.png"
+   productimgurl="/images/products/littleoutliner.png"
    productdescription="Easy to learn, entry-level outliner that runs in a web browser"
    producttype="Server-side app"
    productlicenseorcost="Proprietary"

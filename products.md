@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Products that don't screw us
+title: Products That Don't Screw Us
 permalink: /products/
 ---
 

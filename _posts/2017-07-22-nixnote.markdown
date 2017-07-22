@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Nixnote is like Evernote, just without the lockin"
+date:   2017-07-22 22:13:00 +0000
+categories: update
+---
+
+Originally named Nevernote, Nixnote is just like Evernote, the note taking
+app, but instead of tying you into a particular vendor, it is open-source
+and also exists on Linux.
+
+Go to the <a href="/products/#Nixnote">Nixnote</a> listing.

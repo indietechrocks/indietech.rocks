@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Products
+title: Products that don't screw us
 permalink: /products/
 ---
 
@@ -303,6 +303,16 @@ Your listing MAY also include (encouraged, not required):
    productlicenseorcost="Proprietary"
    vendorname="Dave Winer"
    vendorurl="http://scripting.com/"
+%}
+
+{% include product-line.html
+   productname="Nixnote"
+   producturl="http://nixnote.org/"
+   productimgurl="http://nixnote.org/gallery/add36af93b4166d2dcf0e2a0b96e892c_70x70.png"
+   productdescription="Helps you take notes and stay organized"
+   producttype="Desktop app"
+   productlicenseorcost="GPLv2"
+   vendorname="Randy Baumgarte"
 %}
 
 </table>

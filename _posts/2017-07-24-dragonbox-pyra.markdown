@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Dragonbox Pyra is an open, ultra-portable mini computer"
+title:  "DragonBox Pyra is an open, ultra-portable mini computer"
 date:   2017-07-24 02:31:27 +0000
 categories: update
 ---
@@ -18,8 +18,8 @@ standards) and a MicroHDMI port.
 
 You can easily connect a mouse, keyboard and monitor without
 any additional hardware and use it as a desktop PC! 
+
 (Text from the
 <a href="https://pyra-handheld.com/boards/pages/pyra/">Pyra website</a>)
 
-Go to the <a href="/products/#Dragonboxr Pyra">Dragonbox Pyra</a> listing.
-
+Go to the <a href="/products/#DragonBox Pyra">DragonBox Pyra</a> listing.

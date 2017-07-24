@@ -315,4 +315,14 @@ Your listing MAY also include (encouraged, not required):
    vendorname="Randy Baumgarte"
 %}
 
+{% include product-line.html
+   productname="DragonBox Pyra"
+   producturl="https://www.pyra-handheld.com/"
+   productimgurl="/images/products/dragonbox-pyra.png"
+   productdescription="Ultra portable mini computer"
+   producttype="Hardware"
+   productlicenseorcost="tbd"
+   vendorname="Pyra developers"
+   votedForBy="https://www.reddit.com/user/turbotum"
+%}
 </table>

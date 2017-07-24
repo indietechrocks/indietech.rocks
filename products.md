@@ -325,4 +325,16 @@ Your listing MAY also include (encouraged, not required):
    vendorname="Pyra developers"
    votedForBy="https://www.reddit.com/user/turbotum"
 %}
+
+{% include product-line.html
+   productname="Avidemux"
+   producturl="http://avidemux.sourceforge.net/"
+   productimgurl="/images/products/avidemux.png"
+   productdescription="Free video editor to cut, filter and encode projects"
+   producttype="Desktop app"
+   productlicenseorcost="GPLv2"
+   vendorname="Mean"
+   votedForBy="https://www.reddit.com/user/TheMsDosNerd"
+%}
+
 </table>

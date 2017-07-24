@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Cut, filter and encode your video projects with Avidemux"
+date:   2017-07-24 16:15:32 +0000
+categories: update
+---
+
+Avidemux is a free video editor designed for simple cutting, filtering and encoding tasks.
+It supports many file types, including AVI, DVD compatible MPEG files, MP4 and ASF,
+using a variety of codecs. Tasks can be automated using projects, job queue and
+powerful scripting capabilities.
+
+Avidemux is available for Linux, BSD, Mac OS X and Microsoft Windows under the
+GNU GPL license. The program was written from scratch by Mean, but code from other
+people and projects has been used as well. Patches, translations and even bug
+reports are always welcome.
+
+(From the <a href="http://avidemux.sourceforge.net/">Avidemux website</a>.)
+
+Go to the <a href="/products/#Avidemux">Avidemux</a> listing.
+

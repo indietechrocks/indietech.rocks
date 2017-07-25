@@ -348,5 +348,4 @@ Your listing MAY also include (encouraged, not required):
    votedForBy="https://www.reddit.com/user/TheMsDosNerd"
 %}
 
-{% include product-line.html
 </table>

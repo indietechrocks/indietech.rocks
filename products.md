@@ -337,4 +337,16 @@ Your listing MAY also include (encouraged, not required):
    votedForBy="https://www.reddit.com/user/TheMsDosNerd"
 %}
 
+{% include product-line.html
+   productname="Cinelerra"
+   producturl="http://cinelerra.org/"
+   productimgurl="/images/products/cinelerra.png"
+   productdescription="Free filmmaking software"
+   producttype="Desktop app"
+   productlicenseorcost="GPLv2"
+   vendorname="Community"
+   votedForBy="https://www.reddit.com/user/TheMsDosNerd"
+%}
+
+{% include product-line.html
 </table>

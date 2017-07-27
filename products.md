@@ -348,4 +348,27 @@ Your listing MAY also include (encouraged, not required):
    votedForBy="https://www.reddit.com/user/TheMsDosNerd"
 %}
 
+{% include product-line.html
+   productname="Kdenlive"
+   producturl="http://kdenlive.org/"
+   productimgurl="/images/products/kdenlive.png"
+   productdescription="Non-Linear Video Editor"
+   producttype="Desktop app"
+   productlicenseorcost="GPLv2"
+   vendorname="Community"
+   vendorurl="https://kdenlive.org/about/"
+   votedForBy="https://www.reddit.com/user/HeadsUpHigh"
+%}
+
+{% include product-line.html
+   productname="OpenShot"
+   producturl="http://openshot.org/"
+   productimgurl="/images/products/openshot.png"
+   productdescription="Video Editor"
+   producttype="Desktop app"
+   productlicenseorcost="GPLv3"
+   vendorname="OpenShot Studios"
+   votedForBy="https://www.reddit.com/user/HeadsUpHigh"
+%}
+
 </table>

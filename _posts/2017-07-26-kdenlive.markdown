@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Kdenlive is a non-linear open source video editor"
+date:   2017-07-26 17:23:15 +0000
+categories: update
+---
+
+The project was started around 2003.
+Kdenlive is built on Qt and the KDE Frameworks libraries. Most of the video
+processing is done by the MLT Framework, which relies on many other open source
+projects like FFmpeg, frei0r, movit, ladspa, sox, etc…
+
+Kdenlive was designed to answer most needs, from basic video editing to
+professional work. It is developed by a small team and new contributors are welcome.
+
+(Text from the <a href="https://kdenlive.org/features/">kdenlive website</a>.)
+
+Go to the <a href="/products/#Kdenlive">Kdenlive</a> listing.
+

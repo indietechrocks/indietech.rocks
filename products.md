@@ -22,6 +22,7 @@ Your listing MAY also include (encouraged, not required):
 <table class="products" markdown="0">
 
 {% include product-line.html
+   i=1
    productname="Known"
    producturl="https://github.com/idno/Known"
    productimgurl="/images/products/known.png"
@@ -33,6 +34,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=2
    productname="Wordpress"
    producturl="https://wordpress.org/"
    productimgurl="/images/products/wordpress.png"
@@ -44,6 +46,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=3
    productname="Wordpress"
    producturl="https://wordpress.com/"
    productimgurl="/images/products/wordpress.png"
@@ -55,6 +58,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=4
    productname="Quill"
    producturl="https://quill.p3k.io/"
    productimgurl="/images/products/quill.png"
@@ -66,6 +70,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=5
    productname="Federated Wiki"
    producturl="http://about.fed.wiki/"
    productimgurl="/images/products/federated-wiki.png"
@@ -77,6 +82,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=6
    productname="Ghost"
    producturl="https://ghost.org/"
    productimgurl="/images/products/ghost.png"
@@ -88,6 +94,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=7
    productname="Brid.gy"
    producturl="https://brid.gy/"
    productimgurl="/images/products/bridgy.jpg"
@@ -99,6 +106,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=8
    productname="DuckDuckGo"
    producturl="https://duckduckgo.com/"
    productimgurl="/images/products/duckduckgo.png"
@@ -110,17 +118,19 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=9
    productname="StartPage"
    producturl="https://www.startpage.com/"
    productimgurl="/images/products/startpage.png"
    productdescription="Privacy focused search engine, founded in New York and launched on the Web in 1998"
-   prodicyttype="Hosted service"
+   producttype="Hosted service"
    productlicenseorcost="Free"
    vendorname="Surfboard Holding B.V."
    vendorurl="https://us.startpage.com/au/company.html"
 %}
 
 {% include product-line.html
+   i=10
    productname="Open Sprinkler"
    producturl="https://opensprinkler.com/product/opensprinkler/"
    productimgurl="/images/products/opensprinkler.svg"
@@ -131,6 +141,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=11
    productname="Signal"
    producturl="https://whispersystems.org/"
    productimgurl="/images/products/signal.jpg"
@@ -142,6 +153,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=12
    productname="Nextcloud"
    producturl="https://nextcloud.com/"
    productimgurl="/images/products/nextcloud.png"
@@ -153,6 +165,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=13
    productname="Selfoss"
    producturl="https://selfoss.aditu.de/"
    productimgurl="/images/products/selfoss.png"
@@ -164,6 +177,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=14
    productname="Shaarli"
    producturl="https://github.com/shaarli/Shaarli"
    productimgurl="/images/products/shaarli.png"
@@ -174,6 +188,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=15
    productname="Mastodon"
    producturl="https://mastodon.social/"
    productimgurl="/images/products/mastodon.png"
@@ -185,6 +200,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=16
    productname="Riot"
    producturl="https://about.riot.im/"
    productimgurl="/images/products/riot.png"
@@ -196,6 +212,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=17
    productname="Synapse"
    producturl="https://matrix.org/docs/projects/server/synapse.html"
    productimgurl="/images/products/matrix.png"
@@ -207,6 +224,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=18
    productname="Wallabag"
    producturl="https://wallabag.org/"
    productimgurl="/images/products/wallabag.png"
@@ -218,6 +236,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=19
    productname="HestiaPi"
    producturl="https://hestiapi.com/"
    productimgurl="/images/products/hestiapi.png"
@@ -229,6 +248,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=20
    productname="Prosody IM"
    producturl="https://prosody.im/"
    productimgurl="/images/products/prosody.png"
@@ -240,6 +260,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=21
    productname="Diaspora*"
    producturl="https://podupti.me/"
    productimgurl="/images/products/diaspora.png"
@@ -251,6 +272,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=22
    productname="Kodi"
    producturl="https://kodi.tv/"
    productimgurl="/images/products/kodi.png"
@@ -262,6 +284,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=23
    productname="Firefox"
    producturl="https://www.mozilla.org/en-US/firefox/"
    productimgurl="/images/products/firefox.jpg"
@@ -273,6 +296,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=24
    productname="River"
    producturl="https://github.com/scripting/river5"
    productimgurl="/images/products/river5.png"
@@ -284,6 +308,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=25
    productname="Webtrees"
    producturl="https://www.webtrees.net/"
    productimgurl="/images/products/webtrees.jpg"
@@ -295,6 +320,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=26
    productname="Little Outliner"
    producturl="http://littleoutliner.com/"
    productimgurl="/images/products/littleoutliner.png"
@@ -306,6 +332,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=27
    productname="Nixnote"
    producturl="http://nixnote.org/"
    productimgurl="/images/products/nixnote.png"
@@ -316,6 +343,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=28
    productname="DragonBox Pyra"
    producturl="https://www.pyra-handheld.com/"
    productimgurl="/images/products/dragonbox-pyra.png"
@@ -327,6 +355,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=29
    productname="Avidemux"
    producturl="http://avidemux.sourceforge.net/"
    productimgurl="/images/products/avidemux.png"
@@ -338,6 +367,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=30
    productname="Cinelerra"
    producturl="http://cinelerra.org/"
    productimgurl="/images/products/cinelerra.png"
@@ -349,6 +379,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=31
    productname="Kdenlive"
    producturl="http://kdenlive.org/"
    productimgurl="/images/products/kdenlive.png"
@@ -361,6 +392,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
+   i=32
    productname="OpenShot"
    producturl="http://openshot.org/"
    productimgurl="/images/products/openshot.png"

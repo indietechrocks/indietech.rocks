@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "OpenShot is an award-winning, open-source video editor"
-date:   2017-07-26 18:00:56 +0000
+date:   2017-07-27 18:00:56 +0000
 categories: update
 ---
 

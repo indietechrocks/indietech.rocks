@@ -1,0 +1,39 @@
+---
+layout: post
+title:  "Wagn is an innovative, card-based wiki"
+date:   2017-07-29 23:16:29 +0000
+categories: update
+---
+
+Wagn helps you organize information into cards.
+
+Cards are Wagn's building blocks. They're like atoms of data that can
+be combined and connected to create all kinds of new data structures.
+
+Many web systems have some parallel to cards.  Wordpress has "posts",
+Drupal has "nodes", etc.  But Wagn takes the atom idea much further.
+For example, if you have a Company card (say Widgets, Inc) that you
+want to attach several smaller bits of information (address, logo,
+contact person, etc), then each of the smaller bits of information
+is also a card.
+
+In contrast, to add microstructure to a Wordpress post, you must create
+new custom something-or-others that themselves are not posts. 
+The same goes for Drupal nodes. These custom something-or-others can
+require custom interface, custom code, and custom database tables,
+none of which are familiar to the rest of the system.  A standard
+site might have half a dozen modules installed, each with custom
+subsystems that have no idea that the others exist.  This makes data
+and system integration extremely difficult.
+
+Wagn's deeply atomic approach yields huge benefits.  Since everything
+is a card, you can use the same data and interface patterns over and
+over again. Everything can be edited in place, without shifting context.
+There's just one modules api, one RESTful Web API, and one rule system.
+The native query language is designed for querying cards, and the views
+system is designed to display them.
+
+(Text from the <a href="http://wagn.org/Features">Wagn site</a>.)
+
+Go to the <a href="/products/#Wagn">Wagn</a> listing.
+

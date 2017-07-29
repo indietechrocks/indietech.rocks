@@ -403,4 +403,16 @@ Your listing MAY also include (encouraged, not required):
    votedForBy="https://www.reddit.com/user/HeadsUpHigh"
 %}
 
+{% include product-line.html
+   i=33
+   productname="Wagn"
+   producturl="http://wagn.org/"
+   productimgurl="/images/products/wagn.png"
+   productdescription="Innovative Wiki built from cards"
+   producttype="Server-side app"
+   productlicenseorcost="GPLv3"
+   vendorname="Grass Commons"
+   vendorurl="http://grasscommons.org/"
+%}
+
 </table>

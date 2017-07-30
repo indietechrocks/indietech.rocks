@@ -415,4 +415,16 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="http://grasscommons.org/"
 %}
 
+{% include product-line.html
+   i=34
+   productname="Rockstor"
+   producturl="http://rockstor.com/download.html"
+   productimgurl="/images/products/rockstor.png"
+   productdescription="Linux and BTRFS based NAS operating system"
+   producttype="Server OS"
+   productlicenseorcost="GPLv3"
+   vendorname="RockStor, Inc."
+   vendorurl="http://rockstor.com/"
+%}
+
 </table>

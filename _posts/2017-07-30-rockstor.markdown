@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Rockstor is an operating system for network-attacked storage"
+date:   2017-07-30 21:21:56 +0000
+categories: update
+---
+
+Released earlier this month, Rockstor 3.9.1 is a Linux-based operating
+system for open Network-Attached Storage (NAS) with the following
+features:
+
+* User friendly Web-UI
+* Online Disk Management
+* Online Pool Management
+* Online Share and Snapshot Management
+* Share Replication
+* Directory Services
+* NFS Analytics
+* A Docker based Plugin system
+* Email notifications
+* S.M.A.R.T drive monitoring
+* UPS managed Shutdown
+* Support
+
+Unlike other systems, it uses the advanced BTRFS filesystem underneath.
+
+Go to the <a href="/products/#Rockstor">Rockstor</a> listing.
+

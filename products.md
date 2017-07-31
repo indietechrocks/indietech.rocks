@@ -427,4 +427,15 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="http://rockstor.com/"
 %}
 
+{% include product-line.html
+   i=35
+   productname="Cozy"
+   producturl="https://cozy.io/"
+   productimgurl="/images/products/cozy.png"
+   productdescription="Personal cloud, app platform and life organizer"
+   producttype="Server-side app"
+   productlicenseorcost="AGPLv3"
+   vendorname="Cozy Cloud"
+%}
+
 </table>

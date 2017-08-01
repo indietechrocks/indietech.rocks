@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Pump.io is an activity streams server"
+date:   2017-08-01 18:48:13 +0000
+categories: update
+---
+
+From the <a href="http://pump.io/">website</a>:
+
+<blockquote>
+<p>I post something and my followers see it. That's the rough idea behind the pump.</p>
+
+<p>You can post almost anything that can be represented with activity streams --
+short or long text, bookmarks, images, video, audio, events, geo checkins.
+You can follow friends, create lists of people, and so on.</p>
+
+<p>The software is useful for at least these scenarios:</p>
+
+<ul>
+<li>Mobile-first social networking</li>
+<li>Activity stream functionality for an existing app</li>
+<li>Experimenting with social software</li>
+</ul>
+
+<p>It also comes with a web UI.</p>
+</blockquote>
+
+
+Go to the <a href="/products/#Pump.io">Pump.io</a> listing.
+

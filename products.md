@@ -450,4 +450,16 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="https://github.com/pump-io/"
 %}
 
+{% include product-line.html
+   i=37
+   productname="FreedomBox"
+   producturl="https://freedomboxfoundation.org/learn/"
+   productimgurl="/images/products/freedombox.png"
+   productdescription="Encrypted home server software"
+   producttype="Server-side software"
+   productlicenseorcost="GPLv3"
+   vendorname="FreedomBox Foundation"
+   vendorurl="https://freedomboxfoundation.org/"
+%}
+
 </table>

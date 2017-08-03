@@ -462,4 +462,16 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="https://freedomboxfoundation.org/"
 %}
 
+{% include product-line.html
+   i=38
+   productname="Audacity"
+   producturl="https://www.audacityteam.org/download/"
+   productimgurl="/images/products/audacity.jpg"
+   productdescription="Multi-track audio recording and editing software"
+   producttype="Desktop app"
+   productlicenseorcost="GPLv2"
+   vendorname="Audacity Team"
+   vendorurl="https://www.audacityteam.org/"
+%}
+
 </table>

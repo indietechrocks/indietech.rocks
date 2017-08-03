@@ -1,0 +1,15 @@
+---
+title: "Audacity is a free audio editor and recorder"
+layout: post
+date: 2017-08-02 19:52:09
+categories: update
+---
+Audacity is free, open source, cross-platform audio software for multi-track recording and editing.
+
+Need to convert a cassette tape or vinyl record into digital tracks?  Audacity <a href="http://manual.audacityteam.org/man/tutorial_copying_tapes_lps_or_minidiscs_to_cd.html">can do that</a>.  
+
+Wikipedia has a helpful <a href="https://en.wikipedia.org/wiki/Audacity_%28audio_editor%29#Features_and_usage">Features and usage</a> section for this reliable and user-friendly software.
+
+Audacity is available for <a href="https://www.audacityteam.org/download/windows">Windows®</a>, <a href="https://www.audacityteam.org/download/mac">Mac®</a>, <a href="https://www.audacityteam.org/download/linux">GNU/Linux®</a> and other operating systems.
+
+Go to the <a href="/products/#Audacity">Audacity</a> listing.

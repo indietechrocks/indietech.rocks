@@ -481,7 +481,7 @@ Your listing MAY also include (encouraged, not required):
    productimgurl="/images/products/piratebox.png"
    productdescription="DIY anonymous offline file-sharing and communications system"
    producttype="Appliance"
-   productlicenseorcost="depends"
+   productlicenseorcost="Open source (several)"
    vendorname="David Darts and Mattian Strubel"
    vendorurl="https://www.piratebox.cc/team"
 %}

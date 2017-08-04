@@ -474,4 +474,16 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="https://www.audacityteam.org/"
 %}
 
+{% include product-line.html
+   i=39
+   productname="PirateBox"
+   producturl="https://www.piratebox.cc/"
+   productimgurl="/images/products/piratebox.jpg"
+   productdescription="DIY anonymous offline file-sharing and communications system"
+   producttype="Appliance"
+   productlicenseorcost="depends"
+   vendorname="David Darts and Mattian Strubel"
+   vendorurl="https://www.piratebox.cc/team"
+%}
+
 </table>

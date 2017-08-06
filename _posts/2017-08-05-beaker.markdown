@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Beaker: a browser that lets you create websites, too (no server required)"
+date:   2017-08-05 21:33:14 +0000
+categories: update
+---
+
+As they say: "Beaker is a peer-to-peer browser with tools to create and host
+websites. Don't just browse the Web, build it."
+
+You can use Beaker like any other web browser, such as Firefox. But Beaker can do two
+more tricks than other browsers:
+
+* Display web pages from the Dat peer-to-peer network, and
+* Give you the tools to create web pages on that Dat peer-to-peer network.
+
+Setup a website without needing to set up a web server? A great idea (limited
+to those people who have a browser that can browse the Dat network)
+
+Go to the <a href="/products/#Beaker">Beaker</a> listing.
+

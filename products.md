@@ -486,4 +486,27 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="https://www.piratebox.cc/team"
 %}
 
+{% include product-line.html
+   i=40
+   productname="Beaker"
+   producturl="https://beakerbrowser.com/"
+   productimgurl="/images/products/beaker.png"
+   productdescription="Web browser that also lets you browse and publish to the Dat P2P network"
+   producttype="Desktop app"
+   productlicenseorcost="Modified MIT"
+   vendorname="Paul Frazee and Tara Vancil"
+   vendorurl="https://beakerbrowser.com/about.html"
+%}
+
+{% include product-line.html
+   i=41
+   productname="Bitmessage"
+   producturl="https://bitmessage.org/"
+   productimgurl="/images/products/bitmessage.png"
+   productdescription="Instant messaging on the decentralized, encrypted Bitmessage network"
+   producttype="Desktop app"
+   productlicenseorcost="MIT"
+   vendorname="Community"
+%}
+
 </table>

@@ -509,4 +509,16 @@ Your listing MAY also include (encouraged, not required):
    vendorname="Community"
 %}
 
+{% include product-line.html
+   i=42
+   productname="RetroShare"
+   producturl="http://retroshare.net/"
+   productimgurl="/images/products/retroshare.png"
+   productdescription="Free, open source, cross-platform, secure, decentralized communication platform"
+   producttype="Desktop app"
+   productlicenseorcost="GPLv2"
+   vendorname="Community"
+   vendorurl="https://retroshareteam.wordpress.com/"
+%}
+
 </table>

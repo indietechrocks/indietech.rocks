@@ -511,7 +511,7 @@ Your listing MAY also include (encouraged, not required):
 
 {% include product-line.html
    i=42
-   productname="RetroShare"
+   productname="Retroshare"
    producturl="http://retroshare.net/"
    productimgurl="/images/products/retroshare.png"
    productdescription="Free, open source, cross-platform, secure, decentralized communication platform"

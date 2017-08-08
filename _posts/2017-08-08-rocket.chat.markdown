@@ -1,0 +1,26 @@
+---
+layout: post
+title:  "Rocket.Chat, from Brazil, gives you a chat platform""
+date:   2017-08-08 17:16:11 +0000
+categories: update
+---
+
+As they explain on their <a href="https://rocket.chat/team">website</a>:
+
+<blockquote>What started simply as a proof of concept code published to
+GitHub one year ago has exploded into the ever-evolving open source
+platform Rocket.Chat is today.</blockquote>
+
+Features include:
+* Video conferencing
+* Helpdesk chat
+* File sharing
+* Voice messages
+* Link preview
+* API and extendability
+
+In addition to support for the web, there are native and mobile applications
+for the major platforms.
+
+Go to the <a href="/products/#Rocket.Chat">Rocket.Chat</a> listing.
+

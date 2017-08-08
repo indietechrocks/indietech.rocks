@@ -521,4 +521,16 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="https://retroshareteam.wordpress.com/"
 %}
 
+{% include product-line.html
+   i=43
+   productname="Rocket.Chat"
+   producturl="https://rocket.chat/features"
+   productimgurl="/images/products/retroshare.png"
+   productdescription="Web chat platform"
+   producttype="Server-side app"
+   productlicenseorcost="MIT"
+   vendorname="Rocket.Chat"
+   vendorurl="https://rocket.chat/team"
+%}
+
 </table>

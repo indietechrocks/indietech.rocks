@@ -525,7 +525,7 @@ Your listing MAY also include (encouraged, not required):
    i=43
    productname="Rocket.Chat"
    producturl="https://rocket.chat/features"
-   productimgurl="/images/products/retroshare.png"
+   productimgurl="/images/products/rocket.chat.png"
    productdescription="Web chat platform"
    producttype="Server-side app"
    productlicenseorcost="MIT"

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Rocket.Chat, from Brazil, gives you a chat platform""
+title:  "Rocket.Chat, from Brazil, gives you a chat platform"
 date:   2017-08-08 17:16:11 +0000
 categories: update
 ---

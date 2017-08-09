@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Loomio enables better decision-making in groups"
+date:   2017-08-09 18:58:55 +0000
+categories: update
+---
+
+Loomio is decision-making software to assist groups with collaborative decision-making processes.
+It is a free software web application. Users initiate discussions and put up proposals. As
+discussions progress the group receives feedback on a proposal through an up-datable pie chart.
+
+It is built by a core of group of developers based in Wellington, New Zealand.
+There are contributors to the project from around the world.
+
+(Text from <a href="https://en.wikipedia.org/wiki/Loomio">Wikipedia</a>.)
+
+Go to the <a href="/products/#Loomio">Loomio</a> listing.
+

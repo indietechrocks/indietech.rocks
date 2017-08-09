@@ -533,4 +533,16 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="https://rocket.chat/team"
 %}
 
+{% include product-line.html
+   i=44
+   productname="Loomio"
+   producturl="https://www.loomio.org/"
+   productimgurl="/images/products/loomio.png"
+   productdescription="Better decisions together"
+   producttype="Server-side app"
+   productlicenseorcost="AGPLv3"
+   vendorname="Loomio Co-op"
+   vendorurl="https://loomio.coop/"
+%}
+
 </table>

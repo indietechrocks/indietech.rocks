@@ -545,4 +545,16 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="https://loomio.coop/"
 %}
 
+{% include product-line.html
+   i=45
+   productname="Friendica"
+   producturl="http://friendi.ca/"
+   productimgurl="/images/products/friendica.png"
+   productdescription="A decentralized social network"
+   producttype="Server-side app"
+   productlicenseorcost="AGPLv3"
+   vendorname="Community"
+   vendorurl="http://friendi.ca/about/"
+%}
+
 </table>

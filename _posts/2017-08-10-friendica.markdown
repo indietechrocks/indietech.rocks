@@ -19,21 +19,25 @@ spare time. There is no corporation or any foundation behind Friendica.
 
 <p>Friendica currently supports bidirectionally (reading and posting) the following networks:</p>
 
-* Twitter
-* App.net
-* GNU Social
-* Mail (via IMAP and SMTP)
+<ul>
+<li>Twitter</li>
+<li>App.net</li>
+<li>GNU Social</li>
+<li>Mail (via IMAP and SMTP)</li>
+</ul>
 
 <p>Also you can post content to these networks:</p>
 
-* Blogger
-* Buffer (Facebook, Google+ Pages, LinkedIn, Twitter)
-* Dreamwidth
-* Insanejournal
-* Libertree
-* Livejournal
-* Tumblr
-* WordPress
+<ul>
+<li>Blogger</li>
+<li>Buffer (Facebook, Google+ Pages, LinkedIn, Twitter)</li>
+<li>Dreamwidth</li>
+<li>Insanejournal</li>
+<li>Libertree</li>
+<li>Livejournal</li>
+<li>Tumblr</li>
+<li>WordPress</li>
+</ul>
 </blockquote>
 
 Go to the <a href="/products/#Friendica">Friendica</a> listing.

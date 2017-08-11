@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "Create professional vector graphics with Inkscape"
+date:   2017-08-11 23:08:00 +0000
+categories: update
+---
+
+They say about themselves:
+
+<blockquote>Inkscape is an open-source vector graphics editor similar to
+Adobe Illustrator, Corel Draw, Freehand, or Xara X. What sets Inkscape
+apart is its use of Scalable Vector Graphics (SVG), an open XML-based
+W3C standard, as the native format.</blockquote>
+
+If they would want to lock you in, they'd use a proprietary format, not
+an open standard, as their core data representation. Compare with what
+other vector graphics packages do.
+
+Go to the <a href="/products/#Inkscape">Inkscape</a> listing.
+

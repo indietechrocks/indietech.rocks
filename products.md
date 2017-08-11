@@ -557,4 +557,16 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="http://friendi.ca/about/"
 %}
 
+{% include product-line.html
+   i=46
+   productname="Inkscape"
+   producturl="https://inkscape.org"
+   productimgurl="/images/products/inkscape.png"
+   productdescription="Professional vector graphics editor"
+   producttype="Desktop app"
+   productlicenseorcost="GPL"
+   vendorname="Community"
+   vendorurl="https://inkscape.org/en/community/"
+%}
+
 </table>

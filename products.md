@@ -571,13 +571,13 @@ Your listing MAY also include (encouraged, not required):
 
 {% include product-line.html
    i=47
-   productname="Cryptocat"
-   producturl="https://crypto.cat/"
-   productimgurl="/images/products/cryptocat.png"
-   productdescription="Chat with your friends, securely"
-   producttype="Desktop app"
-   productlicenseorcost="GPLv3"
-   vendorname="Nadim Kobeissi"
+   productname="Hubzilla"
+   producturl="https://project.hubzilla.org/"
+   productimgurl="/images/products/hubzilla.png"
+   productdescription="Platform for creating interconnected websites with decentralized identity, communications, and permissions"
+   producttype="Server-side app"
+   productlicenseorcost="MIT"
+   vendorname="Community"
 %}
 
 </table>

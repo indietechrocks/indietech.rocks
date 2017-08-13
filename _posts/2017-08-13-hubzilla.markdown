@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "Hubzilla is a platform for creating interconnected websites"
+date:   2017-08-13 21:05:02 +0000
+categories: update
+---
+
+From their <a href="https://project.hubzilla.org/page/hubzilla/hubzilla-project">site</a>:
+<blockquote>
+<dl>
+<dt>Decentralized network of hubs: the grid</dt>
+<dd>Hubs are the servers that communicate with one another to propagate information across the
+network, or "grid". There is no central hub or single point of failure. Hubs can be connected
+to as many or as few other hubs as desired.</dd>
+<dt>Channels and Connections</dt>
+<dd>A channel is the fundamental (id)entity on the grid. A channel can represent many different
+things: a person, a blog, or a forum to name a few. Channels can make connections with other
+channels to share information with highly detailed permissions. Channels are addressed using a
+familiar channel@hub.domain format.</dd>
+<dt>Nomadic Identity and Cloning</dt>
+<dd>Nomadic identity means true ownership of online identity. With Hubzilla, you don't have an
+account on a server, you own an identity that you can take with you across the grid. You can
+clone a channel across multiple hubs for resilience against network failures or censorship,
+or you can completely move a channel from one hub to another, taking your data and connections
+with you.</dd>
+</dl>
+</blockquote>
+
+Go to the <a href="/products/#Hubzilla">Hubzilla</a> listing.
+

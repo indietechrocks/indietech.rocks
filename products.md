@@ -569,4 +569,15 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="https://inkscape.org/en/community/"
 %}
 
+{% include product-line.html
+   i=47
+   productname="Cryptocat"
+   producturl="https://crypto.cat/"
+   productimgurl="/images/products/cryptocat.png"
+   productdescription="Chat with your friends, securely"
+   producttype="Desktop app"
+   productlicenseorcost="GPLv3"
+   vendorname="Nadim Kobeissi"
+%}
+
 </table>

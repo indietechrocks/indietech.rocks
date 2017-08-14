@@ -580,4 +580,16 @@ Your listing MAY also include (encouraged, not required):
    vendorname="Community"
 %}
 
+{% include product-line.html
+   i=48
+   productname="JetPad"
+   producturl="https://jetpad.net/"
+   productimgurl="/images/products/jetpad.png"
+   productdescription="On-line open source text editor"
+   producttype="Server-side app"
+   productlicenseorcost="GPLv3"
+   vendorname="P2P Value Consortium"
+   vendorurl="http://www.p2pvalue.eu/"
+%}
+
 </table>

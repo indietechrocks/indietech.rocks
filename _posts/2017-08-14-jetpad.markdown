@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Jetpad: an on-line open source text editor"
+title:  "JetPad: an on-line open source text editor"
 date:   2017-08-14 18:20:24 +0000
 categories: update
 ---
@@ -8,9 +8,9 @@ categories: update
 When browsers were young, who would have thought that entire text editors
 could run inside them?
 
-Jetpad is one of them. But unlike others (like Google docs), it is open-source,
+JetPad is one of them. But unlike others (like Google docs), it is open-source,
 and does not lock you into somebody else's cloud, and you can keep control
 over your documents.
 
-Go to the <a href="/products/#Jetpad">Jetpad</a> listing.
+Go to the <a href="/products/#JetPad">JetPad</a> listing.
 

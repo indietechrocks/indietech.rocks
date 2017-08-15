@@ -592,4 +592,16 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="http://www.p2pvalue.eu/"
 %}
 
+{% include product-line.html
+   i=49
+   productname="Krita"
+   producturl="https://krita.org/"
+   productimgurl="/images/products/krita.png"
+   productdescription="Painting program"
+   producttype="Desktop app"
+   productlicenseorcost="GPLv3"
+   vendorname="Krita Foundation"
+   vendorurl="http://krita.org/"
+%}
+
 </table>

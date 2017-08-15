@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Krita: a painting program made by artists"
+date:   2017-08-15 15:15:37 +0000
+categories: update
+---
+
+
+<blockquote>
+Krita is a FREE and open source painting tool designed for concept artists,
+illustrators, matte and texture artists, and the VFX industry. Krita has
+been in development for over 10 years and has had an explosion in growth
+recently. It offers many common and innovative features to help the amateur
+and professional alike. (Source:
+<a href="https://krita.org/en/features/highlights/">Krita website</a>)
+</blockquote>
+
+Go to the <a href="/products/#Krita">Krita</a> listing.
+

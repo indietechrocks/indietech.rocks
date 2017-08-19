@@ -604,4 +604,16 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="http://krita.org/"
 %}
 
+{% include product-line.html
+   i=50
+   productname="ChatSecure"
+   producturl="https://chatsecure.org/"
+   productimgurl="/images/products/chatsecure.png"
+   productdescription="Encrypted messenger for iOS"
+   producttype="Mobile app"
+   productlicenseorcost="GPLv3"
+   vendorname="Chris Ballinger"
+   vendorurl="https://ballinger.io/"
+%}
+
 </table>

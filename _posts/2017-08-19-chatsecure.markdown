@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "ChatSecure"
+title:  "ChatSecure: encrypted messenger for iOS"
 date:   2017-08-19 23:58:22 +0000
 categories: update
 ---

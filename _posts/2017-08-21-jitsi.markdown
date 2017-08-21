@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Jitsi: open source video conferencing "
+date:   2017-08-21 18:25:30 +0000
+categories: update
+---
+
+Skype, Zoom and the like a great, but do we really know who gets to listen
+in to our calls and video conferences? Enter Jitsi, an open-source
+project that has developed the same thing, but without locking you
+in or doing things behind your back.
+
+Go to the <a href="/products/#Jitsi">Jitsi</a> listing.
+

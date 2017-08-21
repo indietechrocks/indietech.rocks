@@ -616,4 +616,15 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="https://ballinger.io/"
 %}
 
+{% include product-line.html
+   i=51
+   productname="Jitsi"
+   producturl="https://jitsi.org/"
+   productimgurl="/images/products/jitsi.png"
+   productdescription="Video conferencing"
+   producttype="Server-side app"
+   productlicenseorcost="Apache 2.0"
+   vendorname="Community"
+%}
+
 </table>

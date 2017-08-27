@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "Metabase: open-source business intelligence and analytics"
+date:   2017-08-27 18:37:01 +0000
+categories: update
+---
+
+Why should only individuals be interested in products that don't screw us?
+Enter Metabase, a business intelligence and analytics application that
+is open-source and free to use.
+
+Go to the <a href="/products/#Metabase">Metabase</a> listing.
+

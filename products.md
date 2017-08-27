@@ -627,4 +627,16 @@ Your listing MAY also include (encouraged, not required):
    vendorname="Community"
 %}
 
+{% include product-line.html
+   i=52
+   productname="Metabase"
+   producturl="https://github.com/metabase/metabase"
+   productimgurl="/images/products/metabase.png"
+   productdescription="Open-source business intelligence and analytics"
+   producttype="Server-side app"
+   productlicenseorcost="AGPLv3"
+   vendorname="Metabase"
+   vendorurl="http://www.metabase.com/"
+%}
+
 </table>

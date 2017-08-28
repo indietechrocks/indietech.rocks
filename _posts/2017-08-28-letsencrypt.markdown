@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Letsencrypt help everybody's privacy"
+title:  "Letsencrypt helps everybody's privacy"
 date:   2017-08-28 17:20:35 +0000
 categories: update
 ---

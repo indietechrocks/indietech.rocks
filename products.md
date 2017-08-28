@@ -639,4 +639,16 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="http://www.metabase.com/"
 %}
 
+{% include product-line.html
+   i=53
+   productname="Letsencrypt"
+   producturl="https://letsencrypt.org/"
+   productimgurl="/images/products/letsencrypt.png"
+   productdescription="Free, automated and open certificate authority"
+   producttype="Web service"
+   productlicenseorcost="Free"
+   vendorname="Internet Security Research Group"
+   vendorurl="https://letsencrypt.org/isrg/"
+%}
+
 </table>

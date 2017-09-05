@@ -651,4 +651,15 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="https://letsencrypt.org/isrg/"
 %}
 
+{% include product-line.html
+   i=54
+   productname="RSS Bridge"
+   producturl="https://github.com/RSS-Bridge/rss-bridge"
+   productdescriptioni="Creates RSS feeds for big websites that don't have them"
+   producttype="Server-side app"
+   productlicenseorcost="Public domain"
+   vendorname="Community"
+   vendorurl="https://github.com/RSS-Bridge/rss-bridge/graphs/contributors"
+%}
+
 </table>

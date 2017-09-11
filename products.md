@@ -655,11 +655,23 @@ Your listing MAY also include (encouraged, not required):
    i=54
    productname="RSS Bridge"
    producturl="https://github.com/RSS-Bridge/rss-bridge"
-   productdescriptioni="Creates RSS feeds for big websites that don't have them"
+   productdescription="Creates RSS feeds for big websites that don't have them"
    producttype="Server-side app"
    productlicenseorcost="Public domain"
    vendorname="Community"
    vendorurl="https://github.com/RSS-Bridge/rss-bridge/graphs/contributors"
+%}
+
+{% include product-line.html
+   i=55
+   productname="Home Assistant"
+   producturl="https://home-assistant.io/"
+   productimgurl="/images/products/homeassistant.png"
+   productdescription="Home automation platform"
+   producttype="Server-side app"
+   productlicenseorcost="Apache 2.0"
+   vendorname="Community"
+   vendorurl="https://community.home-assistant.io/"
 %}
 
 </table>

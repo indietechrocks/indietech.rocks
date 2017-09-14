@@ -674,4 +674,15 @@ Your listing MAY also include (encouraged, not required):
    vendorurl="https://community.home-assistant.io/"
 %}
 
+{% include product-line.html
+   i=55
+   productname="Mediagoblin"
+   producturl="https://mediagoblin.org/"
+   productimgurl="/images/products/mediagoblin.png"
+   productdescription="Media publishing platform"
+   producttype="Server-side app"
+   productlicenseorcost="AGPLv3"
+   vendorname="Community"
+%}
+
 </table>

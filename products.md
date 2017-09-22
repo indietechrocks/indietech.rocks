@@ -685,4 +685,15 @@ Your listing MAY also include (encouraged, not required):
    vendorname="Community"
 %}
 
+{% include product-line.html
+   i=55
+   productname="Briar"
+   producturl="https://briarproject.org"
+   productimgurl="/images/products/briar.png"
+   productdescription="Secure messaging, anywhere, even without internet connectivity"
+   producttype="Mobile app"
+   productlicenseorcost="GPLv3"
+   vendorname="Community"
+%}
+
 </table>

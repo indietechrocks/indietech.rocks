@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Briar -- secure messaging even without internet connectivity"
+title:  "Briar: secure messaging even without internet connectivity"
 date:   2017-09-22 17:00:55 +0000
 categories: update
 ---

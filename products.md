@@ -696,4 +696,15 @@ Your listing MAY also include (encouraged, not required):
    vendorname="Community"
 %}
 
+{% include product-line.html
+   i=56
+   productname="Mailvelope"
+   producturl="https://www.mailvelope.com"
+   productimgurl="/images/products/mailvelope.png"
+   productdescription="Adds PGP encryption to any web mail provider"
+   producttype="Browser plugin"
+   productlicenseorcost="AGPLv3"
+   vendorname="Mailvelope GmbH"
+%}
+
 </table>

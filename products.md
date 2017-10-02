@@ -675,7 +675,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
-   i=55
+   i=56
    productname="Mediagoblin"
    producturl="https://mediagoblin.org/"
    productimgurl="/images/products/mediagoblin.png"
@@ -686,7 +686,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
-   i=55
+   i=57
    productname="Briar"
    producturl="https://briarproject.org"
    productimgurl="/images/products/briar.png"
@@ -697,7 +697,7 @@ Your listing MAY also include (encouraged, not required):
 %}
 
 {% include product-line.html
-   i=56
+   i=58
    productname="Mailvelope"
    producturl="https://www.mailvelope.com"
    productimgurl="/images/products/mailvelope.png"

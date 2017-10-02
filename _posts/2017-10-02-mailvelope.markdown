@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Mailvelope"
+title:  "Mailvelope is for encrypting your e-mail right on the browser"
 date:   2017-10-02 22:51:50 +0000
 categories: update
 ---

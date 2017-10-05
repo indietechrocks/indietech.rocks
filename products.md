@@ -707,4 +707,15 @@ Your listing MAY also include (encouraged, not required):
    vendorname="Mailvelope GmbH"
 %}
 
+{% include product-line.html
+   i=59
+   productname="The Lounge"
+   producturl="https://thelounge.github.io/"
+   productimgurl="/images/products/thelounge.png"
+   productdescription="Modern web internet relay chat"
+   producttype="Server-side app"
+   productlicenseorcost="MIT"
+   vendorname="Community"
+%}
+
 </table>

@@ -718,4 +718,15 @@ Your listing MAY also include (encouraged, not required):
    vendorname="Community"
 %}
 
+{% include product-line.html
+   i=60
+   productname="Open Energy Monitor"
+   producturl="https://openenergymonitor.org"
+   productimgurl="/images/products/openenergymonitor.png"
+   productdescription="Open source monitoring for understanding energy"
+   producttype="Hardware/software system"
+   productlicenseorcost="Various"
+   vendorname="Community"
+%}
+
 </table>

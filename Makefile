@@ -1,6 +1,8 @@
 .PHONY: all clean jekyll open
 
 STAGEDIR=./_site
+OPEN=xdg-open
+# OPEN=open -a Firefox
 
 all: jekyll
 
@@ -11,4 +13,4 @@ jekyll:
 	jekyll build
 
 open:
-	open -a Firefox http://localhost/
+	$(OPEN) http://localhost/

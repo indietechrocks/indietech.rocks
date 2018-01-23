@@ -6,13 +6,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" version="1.1" viewBox="0 0 90 90">
   <style>
     /* <![CDATA[ */
-[href="#logo-square"]{
+use{
 	fill: #566270;
 }
 
 [id|="logo-square"]{
 	animation-duration: 1.5s;
-
 	animation-iteration-count: infinite;
 }
 
@@ -55,15 +54,14 @@
     <rect x="0" y="0" width="90" height="90" />
   </symbol>
 
-  <use href="#logo-background" x="0" y="0" width="90" height="90" fill="#fdfdfd" />
+  <use xlink:href="#logo-background" x="0" y="0" width="90" height="90" fill="#fdfdfd" />
 
-  <use id="logo-square-top" href="#logo-square" x="20" y="0" width="19" height="19" />
-  <use href="#logo-square" x="0" y="30" width="19" height="19" />
-  <use href="#logo-square" x="20" y="30" width="19" height="19" />
-  <use href="#logo-square" x="40" y="30" width="19" height="19" />
-  <use id="logo-square-right" href="#logo-square" x="60" y="30" width="19" height="19" />
-  <use href="#logo-square" x="20" y="50" width="19" height="19" />
-  <use href="#logo-square" x="20" y="70" width="19" height="19" />
-  <use href="#logo-square" x="40" y="70" width="19" height="19" />
+  <use id="logo-square-top" xlink:href="#logo-square" x="20" y="0" width="19" height="19" />
+  <use xlink:href="#logo-square" x="0" y="30" width="19" height="19" />
+  <use xlink:href="#logo-square" x="20" y="30" width="19" height="19" />
+  <use xlink:href="#logo-square" x="40" y="30" width="19" height="19" />
+  <use id="logo-square-right" xlink:href="#logo-square" x="60" y="30" width="19" height="19" />
+  <use xlink:href="#logo-square" x="20" y="50" width="19" height="19" />
+  <use xlink:href="#logo-square" x="20" y="70" width="19" height="19" />
+  <use xlink:href="#logo-square" x="40" y="70" width="19" height="19" />
 </svg>
-

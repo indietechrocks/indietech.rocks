@@ -53,9 +53,6 @@ use{
   <symbol id="logo-background" viewBox="0 0 90 90">
     <rect x="0" y="0" width="90" height="90" />
   </symbol>
-
-  <use xlink:href="#logo-background" x="0" y="0" width="90" height="90" fill="#fdfdfd" />
-
   <use id="logo-square-top" xlink:href="#logo-square" x="20" y="0" width="19" height="19" />
   <use xlink:href="#logo-square" x="0" y="30" width="19" height="19" />
   <use xlink:href="#logo-square" x="20" y="30" width="19" height="19" />
